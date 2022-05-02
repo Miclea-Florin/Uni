@@ -1,0 +1,3 @@
+C:/Users/Miclea Florin/Desktop/Proiect Programare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miclea Florin/Desktop/Proiect Programare/cmake-build-debug/CMakeFiles/Proiect_Programare.dir
+C:/Users/Miclea Florin/Desktop/Proiect Programare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

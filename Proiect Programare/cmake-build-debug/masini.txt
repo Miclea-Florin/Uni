@@ -1,0 +1,1 @@
+Marca;Tip;Disponibilitate;Data;numar de locuri;Numar inmatriculare;Culoare;An
